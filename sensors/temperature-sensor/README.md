@@ -1,0 +1,1 @@
+https://www.tinkercad.com/things/ghIIft8qF0W-temperature-sensor?sharecode=4eYAbAFHP0wHIRuhH9ju0o4eQnyXgmfH-whWuHy7JAM

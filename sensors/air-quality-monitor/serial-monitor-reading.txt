@@ -1,0 +1,54 @@
+Quality: 173
+BAD
+Quality: 953
+GOOD
+Quality: 857
+GOOD
+Quality: 502
+GOOD
+Quality: 902
+GOOD
+Quality: 962
+GOOD
+Quality: 707
+GOOD
+Quality: 800
+GOOD
+Quality: 885
+GOOD
+Quality: 417
+BAD
+Quality: 1019
+GOOD
+Quality: 339
+BAD
+Quality: 733
+GOOD
+Quality: 327
+BAD
+Quality: 150
+BAD
+Quality: 60
+BAD
+Quality: 328
+BAD
+Quality: 787
+GOOD
+Quality: 510
+GOOD
+Quality: 171
+BAD
+Quality: 827
+GOOD
+Quality: 731
+GOOD
+Quality: 170
+BAD
+Quality: 711
+GOOD
+Quality: 512
+GOOD
+Quality: 972
+GOOD
+Quality: 464
+BAD
